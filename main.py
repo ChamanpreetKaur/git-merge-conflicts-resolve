@@ -7,4 +7,5 @@ def mul(c,d)
 def sub(b,c)
     return b-c
 
-here, also adding new line
+print("adding new line")
+
